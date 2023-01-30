@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
+
+$font-family-sans-serif: 'Inter', sans-serif;
+$font-family-monospace: 'DM Mono', monospace;
+
+
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
